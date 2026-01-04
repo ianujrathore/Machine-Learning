@@ -11,3 +11,10 @@ Key Uses of Machine Learning:
 * Transportation: Self-driving cars, route optimization
 * Social Media: Content recommendations, spam detection
 * Smart Assistants: Voice recognition, chatbots
+
+Types of Machine Learning
+Briefly introduce the main types:
+
+* Supervised Learning: Learns from labeled data (e.g., predicting house prices).
+* Unsupervised Learning: Finds patterns in unlabeled data (e.g., customer segmentation).
+* Reinforcement Learning: Learns by trial and error to maximize rewards (e.g., training robots or game AI).
