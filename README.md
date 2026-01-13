@@ -50,3 +50,5 @@ y = predicted continuous value
 * LightGBM Regression – fast gradient boosting using histogram-based tree learning
 * K-Nearest Neighbors (KNN) – Regression predicts values based on the average of nearest data points
 * And more
+
+* Classification Model : Classification in supervised learning is when a machine learns from examples with correct answers and then uses that learning to sort new things into categories, just like a human would.
